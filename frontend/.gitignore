@@ -1,0 +1,9 @@
+# env and venv
+.env
+*.env
+
+.venv/
+*.venv/
+
+# node modules
+node_modules/

@@ -5,3 +5,10 @@
 # Python cache and bytecode files
 __pycache__/
 *.pyc
+
+# codespace 
+.code-workspace
+*.code-workspace
+
+# alembic
+alembic.ini
