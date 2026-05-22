@@ -1,6 +1,14 @@
 # PrimeTrade.ai
 
-![PrimeTrade Demo](demo/primetrade_demo.mp4)
+
+<p align="center">
+   <video width="480" controls poster="">
+      <source src="demo/primetrade_demo.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+   </video>
+   <br>
+   <a href="demo/primetrade_demo.mp4">Download/View Demo Video</a>
+</p>
 
 A minimal, production-style task manager with JWT authentication, role-based access, and a clean React frontend. Built for clarity, learning, and fast onboarding.
 
