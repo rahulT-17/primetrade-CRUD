@@ -77,10 +77,6 @@ A minimal, production-style task manager with JWT authentication, role-based acc
 ## API Docs
 - Swagger UI: [http://localhost:8000/docs](http://localhost:8000/docs)
 
-## Notes
-- `.env` is in `.gitignore`; commit `.env.example` only
-- No hardcoded secrets in code
-- Clean, readable commit history
 
 ---
 *Built for internship submission for primetrade.ai*
