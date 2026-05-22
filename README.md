@@ -1,6 +1,6 @@
 # PrimeTrade.ai
 
-(![Demo video](demo/primetrade.mp4) )
+![PrimeTrade Demo](demo/primetrade_demo.mp4)
 
 A minimal, production-style task manager with JWT authentication, role-based access, and a clean React frontend. Built for clarity, learning, and fast onboarding.
 
